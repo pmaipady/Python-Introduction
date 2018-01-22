@@ -1,0 +1,4 @@
+item 1: Go to Market 
+item 2: Bring Vegetables 
+item 3: Bring egg 
+list: {1: 'Go to Market', 2: 'Bring Vegetables', 3: 'Bring egg'} 
